@@ -2,6 +2,8 @@
 
 ## Download
 
+https://www.factorio.com/download  
+
 ```sh
 wget https://www.factorio.com/get-download/2.0.73/headless/linux64
 tar xvf linux64
