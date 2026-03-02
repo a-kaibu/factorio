@@ -1,5 +1,7 @@
 # factorio
 
+https://site.tokiukaze.com/blog/factorio-headless-server-build/
+
 ## Download
 
 https://www.factorio.com/download  
